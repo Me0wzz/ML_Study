@@ -10,4 +10,4 @@
 ## 개발환경
 
 - WSL2 (Ubuntu 22.04.3 LTS)
-- PyTorch 1.13.1 with DirectML (AMDGPU)
+- PyTorch 2.0.0+cu117 with DirectML (AMDGPU)
